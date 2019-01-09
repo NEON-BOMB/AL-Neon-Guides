@@ -6,21 +6,16 @@
 Index
 
 1. [Getting started](#getstart)
-
   1.1. Acquiring your first submarine
-
   1.2. Acquiring your starter ASW equipment 
-  
   1.3. SOS Maps 
 
 2. How submarines work
-
   2.1 Hunting Range
-  2.2 Health Reduction 
+  2.2 Hunting 
   2.3 Call - in
 
 3. Strengthening Submarines
-
   3.1 Farming SOS maps 
     3.1.2 ASW Equipment
     3.1.3 Submarine Equipment
@@ -38,4 +33,4 @@ Index
 
 
 1. <a name="getstart">Getting Started</a>
-   Submarines are, essentially, a offensive support mechanic in Azur Lane. 
+   Submarines are, essentially, a offensive support mechanic in Azur Lane. They work as a separate fleet 
