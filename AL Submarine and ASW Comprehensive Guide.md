@@ -94,7 +94,7 @@ https://cdn.discordapp.com/attachments/352975182065041410/488287153697325056/Sub
 
 The formula used to determine the % of health reduced from a node is the following:
 https://cdn.discordapp.com/attachments/362117088136921090/532396904492040194/unknown.png
-Thus, if your objective is to have the highest health reduction possible, it's always recommended to run 3 SSs in a submarine fleet.
+Thus, if your objective is to have the highest health reduction possible, it's always recommended to run a full submarine fleet.
 
 2.3 Call-in 
-  If your fleet engages an enemy within a Submarine's Hunting Range, you will have the option of 
+  If your fleet is engaging an enemy node within a Submarine's Hunting Range, you will have the option of calling your submarines to help you in combt. 
