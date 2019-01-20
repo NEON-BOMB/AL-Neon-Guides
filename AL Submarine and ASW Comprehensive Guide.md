@@ -108,9 +108,10 @@ Barrage > Torp Slot 1 > Torp Slot 1 (+1TM) > Torp Slot 2 > Torp slot 2 (+1TM)
 
 
 3. Strengthening Submarines and ASW
-  With the health-reduction depending on power score and limited action window, submarines will always want gold and rainbow equipment, with no excuse to not use them outside of not having them. The only way to get (most) of these shiny weapons is to farm SOS maps. 
-   Also, the only way to get purple and gold ASW equipment is through SOS maps. Always good to have the best equipment available.
+  With the health-reduction depending on power score and limited action window during combat, submarines will always want the best, shinniest gold and rainbow equipment, with no excuse to not use them outside of not having them. The only way to get (most) of these shiny weapons is to farm SOS maps. 
+   Also, the only way to get purple and gold ASW equipment is through SOS maps. Always good to have the best equipment available once harder content versus Submarines becomes available.
 
 3.1 Farming SOS maps 
    ASW and Sub equipment Blueprints only drops from the boss node of a SOS mission. But it always drops something (ASW or Sub).
   A very important mechanic to have in mind is that the drop table of SOS maps is linked to your Signal Strength. Thus, all maps will have the same drop table. **This is why raising your Signal Strength quickly is important; you become able to drop gold Sub torps and gold ASW equipment in ALL SOS maps, AFTER clearing the SOS mission in World 10.**
+  The main issue with farming SOS maps is the laziness that comes with having to equip and build fleets specifically for ASW. The best way to solve this? Prepare girls specifically to grind SOS maps, so they will always be equipped for ASW and the fleets will always exist. (I use my fleet slots 5 and 6 for SOS only)
